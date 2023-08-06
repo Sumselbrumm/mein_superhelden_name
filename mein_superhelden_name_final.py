@@ -10,7 +10,7 @@ def input_number(text, list):
     if component in range(1,len(list)+1,1):
         pass
     else:
-        component = input_number("Deine Zahl muss 1, 2, 3, 4, oder 5, sein. Bitte neu wählen:")
+        component = input_number("Deine Zahl muss zwischen 1 und "+ str(len(list)) +" sein. Bitte neu wählen:", list)
     return component
 
 #user input
