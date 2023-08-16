@@ -1,8 +1,8 @@
 
 #Superhelden Name aus 3 Ziffern je 1-5 
 characteristics = ["Grimmiger", "Garstiger", "Wuselnder","Mächtiger", "Überdimensionaler", "Oberaffengeiler"]
-nouns = ["Sternen", "Melonen", "Fels", "Hut", "Gott"]
-executions =["Zermatscher", "Zerstörer", "Vernichter", "Verzwirbler", "Zerfetzer"]
+nouns = ["Sternen", "Melonen", "Fels", "Hut", "Gott", "Galaxie", "Nokia 5110", "Neutronen"]
+executions =["Zermatscher", "Zerstörer", "Vernichter", "Verzwirbler", "Zerfetzer", "Atomisierer"]
 
 #Funktionen definieren
 def input_number(text, list):
