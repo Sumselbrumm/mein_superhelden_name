@@ -21,4 +21,4 @@ third_component = input_number("Gib hier deine dritte Zahl zwischen 1 und " + st
 print()
 print("Dein Superheldenname ist: ", characteristics[first_component-1], nouns[second_component-1], executions[third_component-1])
 print()
-
+# ganz schön langweilig dieser Code! Das kann ich jetzt viel besser. :-D
